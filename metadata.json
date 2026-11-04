@@ -1,0 +1,6 @@
+{
+  "name": "Aurelion Industrial OS",
+  "description": "Unified AI-Powered Chemical Engineering & Legacy Oilworks Industrial Operating System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

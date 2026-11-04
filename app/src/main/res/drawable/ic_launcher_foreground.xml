@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.6"
+        android:scaleY="0.6"
+        android:translateX="21.6"
+        android:translateY="21.6">
+        <!-- Outer ring -->
+        <path
+            android:fillColor="#1E3A5F"
+            android:pathData="M54,10 A44,44 0 1,0 54,98 A44,44 0 1,0 54,10 Z" />
+        <!-- Industrial amber border -->
+        <path
+            android:fillColor="#D97706"
+            android:pathData="M54,18 A36,36 0 1,0 54,90 A36,36 0 1,0 54,18 Z" />
+        <!-- Inner cavity -->
+        <path
+            android:fillColor="#0A192F"
+            android:pathData="M54,24 A30,30 0 1,0 54,84 A30,30 0 1,0 54,24 Z" />
+        <!-- Gold oil droplet -->
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M54,28 C54,28 72,55 72,67 A18,18 0 1,1 36,67 C36,55 54,28 54,28 Z" />
+        <!-- Droplet highlight -->
+        <path
+            android:fillColor="#FEF3C7"
+            android:pathData="M54,38 C54,38 62,56 62,64 A8,8 0 0,1 54,72 C54,72 58,56 54,38 Z" />
+    </group>
+</vector>

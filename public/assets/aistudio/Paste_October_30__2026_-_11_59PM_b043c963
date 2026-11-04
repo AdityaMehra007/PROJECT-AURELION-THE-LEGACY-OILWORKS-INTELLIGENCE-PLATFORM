@@ -1,0 +1,2056 @@
+# PROJECT AURELION
+# THE LEGACY OILWORKS INTELLIGENCE PLATFORM
+## The Ultimate AI-Powered Chemical Engineering, Petroleum Processing, Kerosene, Wax Manufacturing and Industrial Business Operating System
+
+**MASTER BUILD PROMPT FOR GOOGLE ANTIGRAVITY, AI CODING AGENTS, AND AUTONOMOUS SOFTWARE ENGINEERS**
+
+**Mission:** Transform a multigenerational oil business into a modern, data-driven, AI-enabled industrial enterprise while preserving the knowledge, experience, assets, relationships, and entrepreneurial legacy of the family that built it.
+
+**Product vision:** One intelligent platform that understands the business, documents the factory, teaches chemical engineering, tracks production, manages quality, protects people, reduces waste, analyzes profitability, and helps the next generation make better industrial and business decisions.
+
+**Operating philosophy:** Respect the past. Understand the present. Engineer the future.
+
+---
+
+# PART I. YOUR ROLE AND MANDATE
+
+You are not merely a website developer.
+
+You are a multidisciplinary team operating as one highly capable organization consisting of:
+
+1. A principal software architect.
+2. A chemical engineering knowledge specialist.
+3. A petroleum and hydrocarbon industry researcher.
+4. A manufacturing execution system architect.
+5. An industrial operations manager.
+6. A laboratory information management specialist.
+7. An industrial maintenance and reliability engineer.
+8. An EHS and process safety information specialist.
+9. A supply-chain and inventory architect.
+10. A financial controller and industrial cost accountant.
+11. An ERP and business intelligence specialist.
+12. An AI and knowledge-retrieval engineer.
+13. A cybersecurity and industrial network security specialist.
+14. A product designer specializing in premium industrial interfaces.
+15. A mobile application engineer.
+16. A QA automation engineer.
+17. A regulatory research analyst.
+18. A business strategist working toward sustainable expansion of a family-owned industrial enterprise.
+
+Your job is to combine these disciplines into one coherent, genuinely usable software product.
+
+Do not create a superficial dashboard filled with imaginary numbers and decorative charts.
+
+Build a real application with a data architecture, functional workflows, reliable calculations, user permissions, audit trails, error handling, documentation, and a clear path from prototype to production.
+
+If the existing project contains source code, inspect it first. Preserve useful existing functionality and architecture where appropriate. If the project is empty, create a professional foundation and implement the product in well-defined stages.
+
+Do not stop after producing an architecture document, a mockup, a proposal, or a list of future features. Build and test the strongest working implementation that the available environment supports.
+
+---
+
+# PART II. THE FAMILY BUSINESS DISCOVERY MISSION
+
+## 1. Understand the actual business before designing its industrial model
+
+The business has a family history. The grandfather established an oil-related enterprise, and the father subsequently worked with oil refining or processing. Kerosene, wax, and other petroleum-related products may be involved.
+
+However, the precise business configuration is not yet established.
+
+Your first task is to create a structured Business Discovery Center.
+
+The application must determine which of the following descriptions, or combination of descriptions, matches the real business:
+
+- Petroleum refining.
+- Used-oil re-refining or regeneration.
+- Industrial oil processing.
+- Lubricating oil blending.
+- Process-oil manufacturing.
+- Petroleum distillate processing.
+- Kerosene handling, blending, packaging, or distribution.
+- Paraffin wax or microcrystalline wax processing.
+- Wax formulation, filtration, purification, finishing, and packaging.
+- Petroleum product storage and trading.
+- Industrial chemical processing.
+- Contract manufacturing.
+- Wholesale distribution.
+- A related or different oil-sector business.
+
+These are discovery options, not assumptions about the family business.
+
+Never select a process because it sounds plausible. Confirm it through interviews, historical records, equipment documentation, invoices, product specifications, or qualified engineering review.
+
+## 2. Build a guided interview system
+
+Create an onboarding experience that helps the owner and family members explain the business in plain language.
+
+Ask questions such as:
+
+**Family and history**
+- What was the original business name?
+- When and where did it begin?
+- What products did the first generation sell or manufacture?
+- Who founded, operated, financed, or expanded it?
+- What important changes occurred over the years?
+- Which suppliers, customers, employees, and industry relationships were important?
+- What knowledge exists only in the memories of experienced family members?
+- Are any notebooks, ledgers, factory photographs, receipts, drawings, or historical documents available?
+
+**Factory identity**
+- What is the current legal entity and registered business name?
+- Where is the factory?
+- Is production active, paused, seasonal, outsourced, or discontinued?
+- Does the business own its premises and equipment?
+- What are the current production and storage arrangements?
+- Which processes occur on-site, and which are handled by third parties?
+
+**Materials and products**
+- What raw materials are purchased?
+- What names do suppliers use for those materials?
+- Are material composition and safety documents available?
+- Which final products are manufactured, processed, blended, or resold?
+- Are kerosene and wax current product lines, historical products, or proposed future products?
+- What customer specifications and quality requirements apply?
+- What are the normal order sizes, package formats, and commercial units?
+
+**Equipment and operations**
+- What machinery exists?
+- Are equipment nameplates, maintenance files, drawings, or manuals available?
+- Is the plant batch-based, continuous, manual, automated, or a combination?
+- Which instruments and laboratory tests are used?
+- How are production, stock movements, and quality results currently recorded?
+- What are the biggest recurring operational problems?
+
+**Commercial and financial operations**
+- Who are the customers and suppliers?
+- How are quotations, orders, purchase bills, production costs, receivables, and payments managed?
+- What are the principal cost categories?
+- How are selling prices and margins determined?
+- Which records are digital, and which remain on paper?
+
+**Safety and compliance**
+- What licenses, consents, permits, inspections, and insurance records exist?
+- What emergency plans and approved operating procedures exist?
+- Are there unresolved safety, environmental, or equipment-integrity issues?
+- Who is formally responsible for engineering, compliance, production, and safety approvals?
+
+Every answer must be editable, attributed to its source, and recorded with a timestamp.
+
+For unknown answers, provide the choices **Unknown**, **Needs verification**, **Not applicable**, and **To be investigated**.
+
+Do not force users to invent answers to complete onboarding.
+
+## 3. Create a verified business profile
+
+Generate a living Business Master Profile containing:
+
+- Family-business timeline.
+- Current business model.
+- Verified product portfolio.
+- Verified factory configuration.
+- Site and equipment register.
+- Material and supplier register.
+- Customer and distribution model.
+- Quality requirements.
+- Regulatory obligations.
+- Historical records.
+- Known operational challenges.
+- Knowledge gaps.
+- Digitization priorities.
+- Recommended implementation roadmap.
+
+Clearly separate verified facts, user-entered information, imported documents, AI-generated hypotheses, and professionally approved engineering information.
+
+The profile becomes the foundation for every other module.
+
+---
+
+# PART III. PRODUCT IDENTITY AND DESIGN PHILOSOPHY
+
+## 4. Create a premium industrial application
+
+Working product name: **AURELION Industrial OS**
+
+Subtitle: **The Intelligence Layer for the Family Oilworks**
+
+Use this as a provisional product identity. Make its name, logo, colors, and typography configurable.
+
+The visual experience should combine the sophistication of a premium enterprise software platform with the clarity required in a real industrial environment.
+
+Think:
+
+- Precision engineering.
+- Heritage manufacturing.
+- Petrochemical infrastructure.
+- High-end industrial instrumentation.
+- Modern financial intelligence.
+- A serious executive command center.
+
+The application should feel substantial, deliberate, refined, and powerful, without sacrificing speed, accessibility, or operational clarity.
+
+### Visual language
+
+Use a carefully controlled design system:
+
+- Deep midnight navy and graphite as primary surfaces.
+- Warm ivory and neutral backgrounds for reading and documentation.
+- Restrained copper, brass, or amber accents for branding.
+- Clear green, amber, and red status colors where operational meaning requires them.
+- Highly legible typography.
+- Consistent spacing and alignment.
+- Crisp data tables.
+- Carefully structured cards and panels.
+- Clean engineering diagrams.
+- Distinct visual treatment for critical alarms and safety warnings.
+
+Do not use gold decoration everywhere, excessively glowing interfaces, meaningless animations, illegible futuristic typography, or ornamental control panels.
+
+Luxury must come from excellent execution.
+
+### Required interface characteristics
+
+- Mobile-first responsive layouts.
+- Installable progressive web application where suitable.
+- Desktop workspaces for engineering and management.
+- Fast data entry for factory personnel.
+- Large touch-friendly controls where gloves or difficult operating environments may be relevant.
+- Accessible contrast and typography.
+- Dark and light themes.
+- Configurable time zones, currencies, measurement units, date formats, and languages.
+- Clear empty, loading, success, error, and offline states.
+- Search that works throughout the product.
+- Role-aware navigation.
+- Contextual help.
+- An interface that remains understandable to users who are not chemical engineers.
+
+The application must never communicate a critical safety state through color alone. Include explicit text, recognizable icons, and accessible labels.
+
+---
+
+# PART IV. THE OWNER'S COMMAND CENTER
+
+## 5. Executive dashboard
+
+Create the main owner dashboard as the strategic center of the entire system.
+
+It must answer five questions immediately:
+
+1. What is happening in the business?
+2. What requires attention today?
+3. Where are we losing money, time, material, or quality?
+4. What risks could affect people, production, cash flow, or compliance?
+5. What decision should management investigate next?
+
+### Dashboard sections
+
+**Business overview**
+- Active facilities.
+- Production status by approved work order.
+- Open customer orders.
+- Inventory status.
+- Quality release status.
+- Equipment availability.
+- Maintenance backlog.
+- Supplier delivery status.
+- Outstanding customer invoices.
+- Purchase commitments.
+- Cash-flow indicators where financial data is available.
+
+**Production intelligence**
+- Planned versus actual production.
+- Batch and order progress.
+- Material consumption.
+- Product yield.
+- Reconciliation differences.
+- Rework and rejection quantities.
+- Delay reasons.
+- Shift summaries.
+
+**Quality intelligence**
+- Tests completed.
+- Lots awaiting testing.
+- Nonconforming lots.
+- Pending release approvals.
+- Customer complaints.
+- Quality trends.
+
+**Safety and compliance**
+- Unresolved safety actions.
+- Expiring permits and licenses.
+- Training and certification expiries.
+- Inspection schedules.
+- Overdue corrective actions.
+- Approved maintenance and work-permit status.
+- Environmental reporting deadlines.
+
+**Financial intelligence**
+- Revenue and margin by product.
+- Gross margin by customer and order.
+- Manufacturing cost by batch where traceability permits.
+- Inventory value.
+- Slow-moving stock.
+- Receivables aging.
+- Supplier payables.
+- Working-capital indicators.
+- Forecast versus actual financial performance.
+
+### Data integrity rule
+
+Every KPI must have a defined formula, reporting period, source records, units, and calculation status.
+
+If the underlying information is unavailable, show **Not enough data**.
+
+If the information is provisional, show **Unverified**.
+
+Never manufacture production, safety, inventory, or financial statistics to make the dashboard look complete.
+
+---
+
+# PART V. CHEMICAL ENGINEERING INTELLIGENCE
+
+## 6. Create the Chemical Engineering Knowledge Center
+
+Build an expandable knowledge platform that supports both professional industrial work and structured learning.
+
+It must not assume that the owner or a family member has a formal chemical engineering degree.
+
+Explain concepts clearly, then offer deeper technical material for qualified engineers.
+
+### Core knowledge library
+
+Organize reference material into these categories:
+
+**A. Fundamentals**
+- Units and dimensional analysis.
+- Material properties.
+- Conservation of mass.
+- Conservation of energy.
+- Material balances.
+- Energy balances.
+- Thermodynamics.
+- Phase equilibrium.
+- Fluid mechanics.
+- Heat transfer.
+- Mass transfer.
+- Chemical reaction engineering.
+- Process control principles.
+- Separation processes.
+- Industrial instrumentation.
+- Engineering economics.
+
+**B. Petroleum and hydrocarbon fundamentals**
+- Hydrocarbon families.
+- Petroleum fractions and product terminology.
+- Feedstock characterization.
+- Distillation concepts.
+- Refinery configurations at a conceptual level.
+- Lubricants and base oils.
+- Kerosene and related middle distillates.
+- Petroleum waxes.
+- Process oils.
+- Product blending concepts.
+- Material compatibility.
+- Product storage and degradation.
+- Contaminants and impurities.
+- Product specifications and test methods.
+
+**C. Wax technology**
+- Paraffin wax and microcrystalline wax distinctions.
+- Natural, petroleum-derived, and synthetic wax distinctions.
+- Relevant physical-property terminology.
+- Melting and congealing behavior.
+- Oil content.
+- Penetration and hardness.
+- Color and appearance.
+- Crystallization concepts.
+- Filtration and purification concepts.
+- Customer-specific grades.
+- Packaging, storage, and product traceability.
+
+Clearly distinguish product types, grades, and test methods. Do not use one wax grade's assumptions for another.
+
+**D. Kerosene and middle distillates**
+- Product terminology and classification.
+- Physical properties.
+- Density and viscosity concepts.
+- Distillation characteristics.
+- Flash point and fire risk.
+- Sulfur and contaminant terminology.
+- Product quality documentation.
+- Storage compatibility.
+- Approved handling and transport requirements.
+- Product-specific regulatory differences.
+
+Never assume every product sold as kerosene has the same intended use, composition, grade, or legal classification.
+
+**E. Industrial plant engineering**
+- Process flow diagrams.
+- Piping and instrumentation diagrams.
+- Equipment datasheets.
+- Pumps and motors.
+- Heat exchangers.
+- Storage tanks.
+- Filters and separators.
+- Pressure vessels.
+- Boilers and utilities.
+- Instrumentation and measurement.
+- Equipment integrity.
+- Maintenance concepts.
+- Process hazard analysis.
+- Engineering change management.
+
+**F. Industrial management**
+- Production planning.
+- Operations research.
+- Statistical process control.
+- Quality management.
+- Supply-chain management.
+- Industrial cost accounting.
+- Asset management.
+- Lean manufacturing.
+- Root-cause analysis.
+- Energy efficiency.
+- Waste reduction.
+- Continuous improvement.
+
+### Knowledge article structure
+
+Each article should contain:
+
+1. A plain-language explanation.
+2. A technical explanation.
+3. Important definitions.
+4. Relevant equations, if appropriate.
+5. Variable definitions and units.
+6. Assumptions.
+7. Appropriate example calculations.
+8. Applicability limits.
+9. Common mistakes.
+10. Safety considerations.
+11. Reference sources.
+12. Author, reviewer, approval status, and review date.
+
+Allow the business to upload lawfully obtained textbooks, operating manuals, drawings, training notes, manufacturer documentation, standards, and historical family records.
+
+Respect copyright and document licensing. Index authorized files for search and retrieval rather than copying entire copyrighted textbooks into generated answers.
+
+---
+
+# PART VI. ENGINEERING CALCULATORS AND DIGITAL TOOLS
+
+## 7. Build an engineering calculation workspace
+
+Create a structured toolkit for calculations used in industrial analysis.
+
+### General calculators
+
+- Unit conversion.
+- Dimensional consistency checks.
+- Density and mass-volume conversion.
+- Percentage and concentration calculations.
+- Weighted averages.
+- Statistical summaries.
+- Measurement uncertainty.
+- Simple material-balance calculations.
+- Energy-balance calculations.
+- Yield and loss calculations.
+- Inventory reconciliation.
+- Production-rate calculations.
+- Laboratory result summaries.
+- Engineering data tables.
+
+### Equipment and process analysis
+
+Where appropriate and supported by verified input data, develop preliminary calculation modules for:
+
+- Tank volume and inventory estimation.
+- Flow-rate conversions.
+- Pump performance data analysis.
+- Heat-exchanger performance review.
+- Basic fluid-flow calculations.
+- Filter performance tracking.
+- Heat and mass balance reconciliation.
+- Equipment utilization.
+- Batch production analysis.
+- Energy consumption per unit of product.
+- Material consumption per finished unit.
+- Manufacturing loss analysis.
+
+For every calculation, provide the equation, units, assumptions, source of each input, applicable limits, and a reproducible calculation record.
+
+Use tested scientific computing libraries where appropriate. Do not rely on language-model arithmetic as the authoritative calculation engine.
+
+### Engineering assurance
+
+All engineering calculations must be categorized as one of the following:
+
+- Educational example.
+- Preliminary estimate.
+- Operational data analysis.
+- Engineer-reviewed calculation.
+- Approved engineering deliverable.
+
+High-consequence equipment sizing, pressure relief, hazardous-area classification, thermal design, process design, or other safety-critical engineering must not be presented as approved merely because a calculator returns a result.
+
+Require the appropriate technical review and sign-off.
+
+Do not convert analytical outputs into unauthorized machine settings, process recipes, or direct operating instructions.
+
+---
+
+# PART VII. FACTORY DIGITAL TWIN AND PROCESS REGISTRY
+
+## 8. Create a digital representation of the real facility
+
+Build a structured digital model of the facility based on verified documents and equipment records.
+
+Represent:
+
+- Company.
+- Sites.
+- Buildings.
+- Production areas.
+- Process units.
+- Equipment.
+- Tanks.
+- Pumps.
+- Motors.
+- Filters.
+- Heat exchangers.
+- Piping systems.
+- Instruments.
+- Utilities.
+- Laboratories.
+- Storage locations.
+- Packaging areas.
+- Dispatch areas.
+- Environmental-control equipment.
+
+Every asset must have a unique identifier.
+
+Where drawings are available, support linked process-flow diagrams, equipment layouts, and piping and instrumentation diagrams.
+
+### Equipment record
+
+Include:
+
+- Equipment tag.
+- Equipment name.
+- Manufacturer.
+- Model.
+- Serial number.
+- Location.
+- Intended service.
+- Equipment category.
+- Rated specifications from verified documentation.
+- Installation date.
+- Commissioning records.
+- Inspection history.
+- Maintenance history.
+- Parts and consumables.
+- Relevant technical documents.
+- Responsible owner.
+- Current administrative status.
+
+Support asset relationships so users can understand which components belong to which plant areas and work orders.
+
+### Digital twin limitations
+
+The digital twin represents documented information, not an automatically validated simulation of the actual process.
+
+Mark undocumented equipment information as unknown.
+
+Never invent pipe dimensions, equipment ratings, process connectivity, tank capacities, safety functions, or control-system behavior.
+
+Do not claim to simulate a real refinery accurately without validated models, real engineering inputs, and appropriate verification.
+
+---
+
+# PART VIII. PRODUCTION AND MANUFACTURING EXECUTION
+
+## 9. Production planning and execution
+
+Create a Manufacturing Execution System suitable for the actual business configuration.
+
+Support batch manufacturing, continuous operations, blending, product finishing, packaging, or simple product distribution as applicable.
+
+The enabled production workflows must depend on the verified business profile.
+
+### Production planning
+
+Include:
+
+- Customer demand.
+- Production orders.
+- Material availability.
+- Equipment availability.
+- Planned maintenance windows.
+- Approved product specifications.
+- Production priorities.
+- Work-center schedules.
+- Expected and actual completion dates.
+- Planned versus actual resource consumption.
+
+### Production work orders
+
+Each work order should include:
+
+- Product and grade.
+- Order identifier.
+- Required quantity and unit.
+- Approved product specification.
+- Authorized production instructions from controlled documentation.
+- Required raw materials and lots.
+- Assigned equipment.
+- Assigned personnel.
+- Required inspections.
+- Required quality tests.
+- Planned quantities.
+- Actual quantities.
+- Losses and adjustments.
+- Deviations.
+- Review and approval records.
+- Final disposition.
+
+Do not automatically generate production procedures from general chemical engineering knowledge.
+
+Existing controlled procedures must be imported, reviewed by qualified personnel, versioned, and approved before operational use.
+
+### Batch and lot genealogy
+
+Track the relationship between every relevant input and output:
+
+Raw material receipt → incoming material lot → authorized work order → equipment and processing record → in-process samples → finished product lot → packaging → storage → dispatch → customer.
+
+The application must support forward and backward traceability, recall investigations, quantity reconciliation, and documented adjustments.
+
+### Manufacturing performance
+
+Calculate, where relevant:
+
+- Planned versus actual output.
+- Batch cycle time.
+- Material yield.
+- Rework rate.
+- Rejection rate.
+- Downtime.
+- Material variance.
+- Energy intensity.
+- Production cost.
+- Quality release time.
+
+Use actual records and clearly disclose how missing or estimated measurements affect each result.
+
+---
+
+# PART IX. PRODUCT AND PROCESS SPECIALIZATION
+
+## 10. Kerosene product management
+
+Create a dedicated product workspace for kerosene and other confirmed middle-distillate products.
+
+It must manage:
+
+- Product identity.
+- Verified grade.
+- Intended and authorized market.
+- Customer requirements.
+- Product specification versions.
+- Raw-material and finished-product lot records.
+- Quality results.
+- Storage locations.
+- Quantity reconciliation.
+- Packaging and dispatch records.
+- Certificates of analysis.
+- Applicable safety documentation.
+- Regulatory and transport documentation.
+- Customer complaints and returned products.
+
+Store product properties only when supported by an approved specification, laboratory result, supplier certificate, or other identified source.
+
+Keep laboratory results distinct from specifications and regulatory limits.
+
+Do not assume that achieving a laboratory target automatically authorizes release or sale.
+
+Build configurable workflows for the actual product types and jurisdictions.
+
+## 11. Petroleum wax product management
+
+Create a dedicated workspace for wax-related materials and finished products.
+
+Support whichever products are verified as relevant to the business, potentially including paraffin wax, microcrystalline wax, blended wax products, and other industrial waxes.
+
+### Product data
+
+Include:
+
+- Product grade.
+- Supplier or manufacturing origin.
+- Material lot.
+- Customer specification.
+- Color and appearance.
+- Physical-property test results.
+- Oil-content test results, where applicable.
+- Congealing or melting-related test results as appropriate.
+- Penetration or hardness measurements where relevant.
+- Packaging format.
+- Finished quantity.
+- Batch genealogy.
+- Storage conditions defined by approved documents.
+- Release status.
+- Certificates and customer documentation.
+
+Do not make every property mandatory for every wax.
+
+Apply test methods and acceptance limits only when they are verified for the specific product and market.
+
+### Wax inventory and packaging
+
+Track bulk material, finished blocks or other packaging formats, rework where authorized, packaging consumption, damaged products, and customer dispatches.
+
+Provide a traceable explanation of where each quantity came from and how any discrepancy was resolved.
+
+### Process improvement
+
+Analyze quality trends, material losses, rework, energy usage, packaging losses, and manufacturing cost.
+
+AI may identify correlations and suggest investigations but must not silently change approved production conditions.
+
+---
+
+# PART X. INVENTORY, TANKS AND MATERIAL CONTROL
+
+## 12. Inventory management
+
+Build complete stock management for raw materials, intermediate materials, finished products, packaging, maintenance spares, laboratory consumables, and other relevant supplies.
+
+Include:
+
+- Item master.
+- Unique SKU and material identifiers.
+- Unit of measure.
+- Lot and batch.
+- Supplier.
+- Receipt date.
+- Quality status.
+- Storage location.
+- Quantity.
+- Stock valuation.
+- Reservations.
+- Transfers.
+- Adjustments.
+- Damaged stock.
+- Expiry or review date where relevant.
+- Reorder policy.
+- Approval history.
+
+### Tank and bulk-storage register
+
+For each tank or other storage asset, support verified information such as:
+
+- Asset ID.
+- Product compatibility.
+- Approved capacity.
+- Actual measured quantity.
+- Measurement method.
+- Measurement timestamp.
+- Relevant temperature and density data.
+- Calibration status.
+- Stock history.
+- Inspection history.
+- Relevant permits and documentation.
+
+Distinguish a measured quantity from an estimated quantity.
+
+If tank quantity is derived from level, temperature, density, or calibration tables, record the actual inputs, applicable correction method, and source documentation.
+
+Do not infer that a tank is safe to fill, empty, or use because a dashboard displays spare capacity.
+
+### Reconciliation engine
+
+Compare:
+
+- Opening stock.
+- Receipts.
+- Production consumption.
+- Transfers.
+- Dispatches.
+- Approved adjustments.
+- Closing stock.
+
+Calculate discrepancies and require investigation or documented approval where appropriate.
+
+Never automatically erase a discrepancy by forcing a calculated balance to match the expected balance.
+
+---
+
+# PART XI. LABORATORY AND QUALITY MANAGEMENT
+
+## 13. Laboratory Information Management System
+
+Build a dedicated LIMS-style module connecting sampling, laboratory testing, specifications, quality decisions, and production traceability.
+
+### Core features
+
+- Sample registration.
+- Unique sample IDs.
+- Sampling location and timestamp.
+- Sample collector.
+- Related material lot or production batch.
+- Test request.
+- Test method reference.
+- Instrument used.
+- Instrument calibration status.
+- Analyst identity.
+- Results and units.
+- Detection or reporting limits where relevant.
+- Measurement uncertainty where supported.
+- Acceptance criteria from the applicable controlled specification.
+- Technical review.
+- Release, hold, rejection, or retest disposition.
+- Retained-sample register.
+- Certificate of analysis generation.
+
+### Quality rules
+
+Never compare a laboratory result against an arbitrary value invented by AI.
+
+Every acceptance criterion must be tied to a verified specification and version.
+
+Make out-of-specification results visible and require the configured investigation workflow.
+
+If a sample result is altered or invalidated, retain the original value, the correction reason, and the user who made the change.
+
+Include:
+
+- Trend charts.
+- Statistical process control where appropriate.
+- Nonconformance reports.
+- Root-cause investigations.
+- Corrective and preventive actions.
+- Supplier-quality analysis.
+- Customer complaint analysis.
+- Audit-ready reports.
+
+---
+
+# PART XII. MAINTENANCE AND ASSET RELIABILITY
+
+## 14. Computerized Maintenance Management System
+
+Build a full maintenance management module.
+
+### Work management
+
+- Preventive maintenance plans.
+- Corrective maintenance.
+- Breakdown reports.
+- Work-order prioritization.
+- Personnel assignments.
+- Required skills and authorization.
+- Spare-parts requirements.
+- Equipment downtime.
+- Maintenance history.
+- Labor and material costs.
+- Work verification.
+- Return-to-service approval.
+
+### Asset health
+
+Track actual and documented indicators, such as:
+
+- Equipment condition observations.
+- Inspection results.
+- Vibration records where available.
+- Temperature trends where relevant.
+- Lubrication records.
+- Motor operating data.
+- Calibration status.
+- Equipment failure history.
+- Repeat failures.
+- Criticality assessments performed by competent personnel.
+
+Allow AI to summarize maintenance history, identify recurring patterns, and recommend preventive investigations.
+
+Do not let AI independently declare equipment safe for operation or waive an inspection.
+
+### Spare-parts intelligence
+
+Provide critical-spares registers, lead times, supplier alternatives, reorder thresholds, and cost history.
+
+Keep equipment manufacturer requirements and engineering-approved maintenance intervals traceable.
+
+---
+
+# PART XIII. PROCESS SAFETY, OCCUPATIONAL SAFETY AND EMERGENCIES
+
+## 15. Safety management system
+
+Safety must be a foundational function, not an optional add-on.
+
+Build a structured system for:
+
+- Hazard identification.
+- Risk assessments.
+- Management of change.
+- Permit-to-work administration.
+- Job safety analysis.
+- Contractor safety.
+- Personnel competency and training.
+- Incident and near-miss reporting.
+- Corrective actions.
+- Emergency planning.
+- Safety inspections.
+- Audit preparation.
+- Chemical inventories.
+- Safety data sheets.
+- Equipment inspections.
+- Fire-protection inspection records.
+- Emergency contact directories.
+- Incident investigation.
+- Safety-performance reporting.
+
+### Controlled permit workflows
+
+Support the administrative lifecycle of applicable permits, including request, review, authorization, active status, suspension, closeout, and audit history.
+
+For hazardous work, require the relevant approvals and verified checks specified by the facility's authorized procedures.
+
+Examples may include hot work, confined-space work, electrical isolation, hazardous-area work, or other applicable activities.
+
+The application must not declare a worksite safe merely because someone has ticked every box.
+
+Actual isolation, testing, gas monitoring, inspection, and other safety-critical checks must be conducted by competent personnel using approved site procedures and suitable equipment.
+
+### Emergency information
+
+Make approved emergency procedures accessible through the mobile interface, including offline access to the latest locally approved version.
+
+Display clear document version and approval status.
+
+Support authorized emergency notifications and incident logging.
+
+Emergency contact numbers must be configured and verified for each facility.
+
+### Non-negotiable rules
+
+The application is not a replacement for a safety instrumented system, certified protection equipment, industrial control interlocks, an emergency shutdown system, or professional engineering judgment.
+
+Never permit AI to:
+
+- Override safety interlocks.
+- Disable alarms or protective functions.
+- Approve a hazardous activity automatically.
+- Change control-system setpoints.
+- Generate unapproved operating recipes.
+- Bypass a permit or isolation requirement.
+- Mark an unresolved hazard as safe.
+- Authorize production based solely on financial or scheduling pressure.
+
+The owner dashboard must treat critical unresolved safety issues as serious blockers, not ordinary productivity notifications.
+
+---
+
+# PART XIV. ENVIRONMENT AND REGULATORY COMPLIANCE
+
+## 16. Compliance management center
+
+Build a configurable compliance register for every applicable site and business activity.
+
+The initial implementation should support research into relevant Indian requirements, with the ability to add other jurisdictions if the business expands internationally.
+
+Potential regulatory subject areas include:
+
+- Petroleum storage and handling.
+- Applicable PESO licensing and approvals.
+- Applicable OISD standards and guidance.
+- Applicable factory and occupational safety requirements.
+- Environmental approvals and consents.
+- Air emissions.
+- Wastewater and effluent management.
+- Hazardous waste handling and authorized disposal.
+- Fire protection.
+- Electrical safety.
+- Boiler, pressure-vessel, and equipment inspections where applicable.
+- Labor and employee requirements.
+- Transport requirements.
+- Product standards and conformity obligations.
+- Tax and invoicing.
+- Records retention.
+- Customer and supplier documentation.
+
+Not all requirements apply to every business.
+
+### Compliance register fields
+
+Each compliance item must contain:
+
+- Regulatory topic.
+- Jurisdiction.
+- Relevant authority.
+- Official source.
+- Applicability assessment.
+- Responsible person.
+- Required evidence.
+- Required submission or inspection.
+- Due date.
+- Renewal date where relevant.
+- Current status.
+- Reviewer.
+- Supporting documents.
+- Last verification date.
+- Next review date.
+
+### Regulatory research requirements
+
+Use authoritative sources wherever available.
+
+Begin with official resources such as:
+
+- Oil Industry Safety Directorate standards: https://oisd.gov.in/oisd-standards
+- Petroleum and Explosives Safety Organisation: https://www.peso.gov.in/
+- Central Pollution Control Board: https://cpcb.nic.in/
+- Petroleum and Natural Gas Regulatory Board: https://www.pngrb.gov.in/
+- Bureau of Indian Standards: https://www.bis.gov.in/
+- Ministry of Environment, Forest and Climate Change: https://moef.gov.in/
+
+Verify current requirements, revisions, applicability, and official publication dates before presenting compliance conclusions.
+
+Do not assume a webpage, draft standard, historic document, or third-party interpretation is the current applicable legal requirement.
+
+Do not automatically provide legal certification.
+
+Provide a clear label such as **Research required**, **Applicability pending**, **Reviewed by qualified professional**, or **Verified against official source**.
+
+### Environmental monitoring
+
+Support verified records for:
+
+- Water consumption.
+- Energy consumption.
+- Wastewater monitoring.
+- Emissions monitoring.
+- Waste generation.
+- Waste disposal.
+- Spill incidents.
+- Environmental inspections.
+- Corrective actions.
+- Reporting periods.
+
+Do not invent emission limits or claim regulatory compliance without the applicable jurisdiction, verified permit conditions, reliable measurements, and appropriate review.
+
+---
+
+# PART XV. PROCUREMENT, SUPPLIERS AND SUPPLY CHAIN
+
+## 17. Procurement management
+
+Build a complete purchasing workflow.
+
+Include:
+
+- Supplier master.
+- Supplier qualification.
+- Material specifications.
+- Requests for quotation.
+- Quote comparison.
+- Purchase requisitions.
+- Purchase orders.
+- Approval limits.
+- Delivery schedules.
+- Goods receipt.
+- Inspection.
+- Laboratory release where applicable.
+- Supplier invoices.
+- Payment status.
+- Supplier performance.
+
+Compare suppliers on total landed cost, quality history, delivery reliability, documentation, lead times, and other relevant factors.
+
+Never let an AI-generated recommendation replace required approval or vendor qualification.
+
+### Supplier intelligence
+
+Maintain verified supplier identities, locations, products, pricing history, commercial terms, quality performance, and supporting documents.
+
+Distinguish known facts from estimated lead times, indicative prices, and unverified claims.
+
+---
+
+# PART XVI. CUSTOMERS, SALES AND DISTRIBUTION
+
+## 18. Customer relationship management
+
+Build a professional CRM for industrial customers and distributors.
+
+Include:
+
+- Customer profiles.
+- Customer classification.
+- Product interests.
+- Approved specifications.
+- Quotations.
+- Sample requests.
+- Orders.
+- Contracts.
+- Commercial terms.
+- Delivery preferences.
+- Customer credit limits where applicable.
+- Invoice history.
+- Complaints.
+- Returns.
+- Relationship history.
+
+### Sales management
+
+Support:
+
+- Sales pipeline.
+- Order forecasting.
+- Product-wise revenue.
+- Customer profitability.
+- Quote conversion.
+- Repeat-order analysis.
+- Lost-order reasons.
+- Customer retention.
+- Order fulfillment.
+- Outstanding receivables.
+
+### Product documentation
+
+Generate professional, data-driven business documents, subject to authorization:
+
+- Quotations.
+- Purchase and sales order confirmations.
+- Delivery notes.
+- Invoices through the configured financial system.
+- Certificates of analysis.
+- Packing lists.
+- Product specification sheets.
+- Technical data sheets.
+- Safety data sheets from approved sources.
+- Batch traceability summaries.
+
+Never fabricate certification marks, product properties, regulatory approvals, or customer-specific test results.
+
+---
+
+# PART XVII. FINANCE AND PROFITABILITY
+
+## 19. Industrial financial intelligence
+
+Create a finance workspace that connects business activity with real financial performance.
+
+### Costing
+
+Track applicable costs, such as:
+
+- Raw materials.
+- Purchased intermediate products.
+- Packaging.
+- Electricity and fuel.
+- Utilities.
+- Direct labor.
+- Maintenance.
+- Laboratory testing.
+- Waste treatment.
+- Contract manufacturing.
+- Transport.
+- Storage.
+- Other production overheads.
+
+Use a configurable cost-accounting methodology appropriate to the actual business.
+
+### Cost and margin analysis
+
+Calculate, when the necessary data is available:
+
+- Cost per unit.
+- Cost per batch.
+- Product gross margin.
+- Contribution margin.
+- Customer margin.
+- Order profitability.
+- Material loss cost.
+- Rework cost.
+- Quality-failure cost.
+- Inventory carrying cost.
+- Manufacturing variance.
+
+Clearly distinguish accounting profit from cash flow.
+
+### Finance dashboards
+
+Include:
+
+- Revenue trends.
+- Cost trends.
+- Accounts receivable.
+- Accounts payable.
+- Inventory valuation.
+- Cash-flow forecasting.
+- Budget versus actuals.
+- Customer aging.
+- Supplier obligations.
+- Tax-related document tracking.
+
+Allow integration with the accounting software used by the business.
+
+Do not treat an operational dashboard as a statutory accounting ledger unless the accounting implementation has been designed, reconciled, tested, and approved for that purpose.
+
+---
+
+# PART XVIII. UTILITIES, ENERGY AND RESOURCE EFFICIENCY
+
+## 20. Industrial resource management
+
+Build a module that measures and analyzes resource consumption using actual meter readings, bills, approved production records, and instrument integrations.
+
+Track relevant metrics:
+
+- Electricity consumption.
+- Fuel usage.
+- Water consumption.
+- Steam or thermal utility consumption where applicable.
+- Compressed air where relevant.
+- Waste generation.
+- Material recovery.
+- Energy intensity by product.
+- Utility consumption by shift or work order where measurable.
+
+### Optimization engine
+
+Identify potential opportunities for investigation, including:
+
+- Unexpected consumption trends.
+- Unexplained losses.
+- Idle equipment.
+- Repeated process interruptions.
+- Excessive rework.
+- Poor material reconciliation.
+- Maintenance-related inefficiencies.
+
+For every proposed improvement, display:
+
+1. Observed evidence.
+2. Relevant data period.
+3. Possible explanation.
+4. Confidence and uncertainty.
+5. Estimated financial impact.
+6. Required investigation.
+7. Responsible reviewer.
+8. Outcome after implementation.
+
+Never implement engineering changes automatically.
+
+---
+
+# PART XIX. ARTIFICIAL INTELLIGENCE AND THE INDUSTRIAL KNOWLEDGE BRAIN
+
+## 21. Build a multi-purpose industrial AI assistant
+
+The AI assistant should understand the business's verified records and authorized technical documentation.
+
+It must serve different users appropriately.
+
+**Owner mode:** Business performance, profitability, cash flow, investment priorities, expansion, and strategic risks.
+
+**Plant manager mode:** Production planning, bottlenecks, resource allocation, outstanding actions, and shift summaries.
+
+**Chemical engineering mode:** Concepts, technical references, data analysis, preliminary calculations, and engineering documentation support.
+
+**Quality mode:** Test records, nonconformances, specifications, traceability, and corrective-action summaries.
+
+**Maintenance mode:** Equipment history, work orders, spare parts, breakdown trends, and inspection status.
+
+**Safety mode:** Approved safety documents, permit administration, incident records, compliance actions, and training status.
+
+**Procurement mode:** Supplier comparisons, purchase commitments, delivery status, and material availability.
+
+**Sales mode:** Customer information, quotations, product availability, and customer profitability.
+
+**Finance mode:** Costing, financial reconciliation, margin analysis, and working-capital reporting.
+
+**Learning mode:** Structured chemical engineering education with plain-language explanations.
+
+### Retrieval-augmented generation
+
+Use a grounded retrieval system that can search approved documents and authorized application data.
+
+For every technical answer, display:
+
+- Answer.
+- Supporting source.
+- Exact document title.
+- Relevant section or page where available.
+- Document version.
+- Source date.
+- Approval status.
+- Any assumptions or missing information.
+
+If the evidence is insufficient, say so directly.
+
+Never invent a source, citation, standard, document revision, engineering calculation, material property, legal obligation, or company record.
+
+### Permission-aware AI
+
+The assistant must enforce the same access permissions as the underlying application.
+
+An employee must not be able to retrieve restricted financial, personal, commercial, or safety information merely by asking the AI.
+
+Treat uploaded files and external content as untrusted data. They must not be allowed to change system permissions, override application policy, or instruct the AI to disclose confidential records.
+
+### Predictive analytics
+
+Once enough trustworthy data is available, support controlled analytical features such as:
+
+- Demand forecasting.
+- Inventory planning.
+- Production delay analysis.
+- Equipment failure trend analysis.
+- Quality trend detection.
+- Energy consumption anomaly detection.
+- Supplier performance forecasting.
+- Customer payment-risk analysis.
+- Working-capital forecasting.
+
+Show how the prediction was produced, what data it used, how reliable it appears, and where it should not be applied.
+
+Do not claim predictive accuracy before validation against actual historical results.
+
+---
+
+# PART XX. DOCUMENT INTELLIGENCE AND FAMILY KNOWLEDGE PRESERVATION
+
+## 22. Digitize the business's history
+
+Create a secure document repository for:
+
+- Historical notebooks.
+- Handwritten operating notes.
+- Business ledgers.
+- Supplier invoices.
+- Customer records.
+- Product specifications.
+- Equipment manuals.
+- Drawings.
+- Laboratory reports.
+- Contracts.
+- Photographs.
+- Inspection reports.
+- Licenses.
+- Historical correspondence.
+- Family interviews.
+- Training records.
+
+### Document workflow
+
+Support:
+
+1. Upload.
+2. File identification.
+3. Metadata extraction.
+4. Search indexing.
+5. Human verification of extracted data.
+6. Document classification.
+7. Access-control assignment.
+8. Versioning.
+9. Approval where applicable.
+10. Archiving and retention.
+
+Use OCR or handwriting recognition where helpful, but mark uncertain transcription results for review.
+
+Maintain the original document and its provenance.
+
+Do not assume an old handwritten formula, operating note, or drawing is safe, current, complete, or approved for use merely because it came from an experienced family member.
+
+### Family knowledge archive
+
+Create a private digital archive capturing:
+
+- The founder's history.
+- Business milestones.
+- Important decisions.
+- Product knowledge.
+- Historical supplier relationships.
+- Operational lessons.
+- Stories from experienced employees.
+- Lessons learned from past failures.
+- The evolution of the business.
+
+Preserve the original material and clearly separate historical recollections from verified technical procedures.
+
+The goal is to ensure that future generations do not lose the knowledge that took decades to accumulate.
+
+---
+
+# PART XXI. PEOPLE, TRAINING AND ORGANIZATIONAL KNOWLEDGE
+
+## 23. Workforce management
+
+Create employee and contractor profiles with appropriate privacy controls.
+
+Track:
+
+- Job role.
+- Site and department.
+- Authorized responsibilities.
+- Required qualifications.
+- Training courses.
+- Competency assessments.
+- Safety training.
+- Certification dates.
+- Expiries.
+- Shift rosters.
+- Work assignments.
+- Relevant permit authorization.
+- Training completion records.
+
+Provide role-specific training paths for operators, laboratory personnel, maintenance technicians, supervisors, storekeepers, office employees, and management.
+
+Allow the learning system to explain chemical engineering terminology without making a user appear qualified to perform work for which they have not been trained or authorized.
+
+Never expose sensitive employee information to unauthorized users.
+
+---
+
+# PART XXII. MOBILE-FIRST FACTORY OPERATIONS
+
+## 24. Design for real-world mobile usage
+
+The system must work well on Android phones and modern desktop browsers.
+
+Use an installable PWA as the default delivery model unless an existing project or hardware requirement makes a dedicated native application more suitable.
+
+Prioritize:
+
+- Fast login.
+- Role-specific home screens.
+- QR and barcode scanning where practical.
+- Material receipt.
+- Stock movements.
+- Sample logging.
+- Maintenance requests.
+- Shift handover.
+- Work-order updates.
+- Inspection checklists.
+- Document access.
+- Photo attachments.
+- Task approvals.
+- Notifications.
+- Incident reporting.
+
+### Offline support
+
+Support carefully scoped offline workflows for unreliable connectivity.
+
+Examples include draft inspections, shift notes, authorized document access, and permitted stock-record drafts.
+
+Clearly indicate:
+
+- Online or offline status.
+- Last synchronization.
+- Unsynchronized changes.
+- Conflicting records.
+- Failed uploads.
+- Required follow-up.
+
+Do not let stale offline data authorize hazardous work or override newer records.
+
+Define which operations require an active connection and server-side authorization.
+
+### Mobile safety
+
+Acknowledge when a user is in a hazardous work environment.
+
+Avoid distracting notifications while an employee is carrying out safety-sensitive duties.
+
+Provide a clear path to approved emergency information without relying on a language model to improvise emergency instructions.
+
+---
+
+# PART XXIII. REPORTING, DATA SCIENCE AND BUSINESS INTELLIGENCE
+
+## 25. Build the industrial analytics layer
+
+Provide a powerful reporting engine with consistent definitions and traceable data.
+
+### Operational reports
+
+- Production by period.
+- Production by product and grade.
+- Material consumption.
+- Inventory movements.
+- Batch reconciliation.
+- Quality release status.
+- Equipment utilization.
+- Maintenance backlog.
+- Delay reasons.
+- Workforce training status.
+
+### Financial reports
+
+- Revenue by product and customer.
+- Cost by batch or order.
+- Margin analysis.
+- Inventory valuation.
+- Working capital.
+- Supplier expenditure.
+- Receivables aging.
+- Forecast versus actual performance.
+
+### Safety and compliance reports
+
+- Incident trends.
+- Unresolved corrective actions.
+- Inspection completion.
+- Permit administration records.
+- Training compliance.
+- License and consent registers.
+- Environmental monitoring records.
+
+### Advanced analytics
+
+Allow authorized analysts to export data and explore relationships among product quality, material lots, machine performance, production time, energy use, costs, and customer complaints.
+
+Never claim that correlation proves causation.
+
+Include data-quality flags, missing-data indicators, report definitions, source timestamps, and reproducible filtering.
+
+---
+
+# PART XXIV. INTEGRATIONS AND INDUSTRIAL CONNECTIVITY
+
+## 26. Build a secure integration layer
+
+The application should be designed to integrate with approved external systems without becoming dependent on any single provider.
+
+Potential integrations include:
+
+- Accounting systems.
+- Enterprise resource planning software.
+- GST-compliant invoicing systems.
+- Email.
+- Calendar and task management.
+- Supplier systems.
+- Customer portals.
+- Barcode printers and scanners.
+- Weighbridges.
+- Laboratory instruments.
+- Calibrated measurement systems.
+- Industrial historians.
+- Approved read-only SCADA or DCS data gateways.
+- Approved IoT gateways.
+- Business reporting platforms.
+
+### Integration principles
+
+- Use documented APIs when available.
+- Use secure service credentials.
+- Avoid storing passwords in source code.
+- Apply least-privilege access.
+- Log integration failures.
+- Make synchronization status visible.
+- Validate incoming data.
+- Prevent duplicate imports.
+- Preserve the original source and timestamp.
+- Build retry and reconciliation mechanisms.
+
+### Industrial control-system boundary
+
+The initial application must be **read-only with respect to industrial control systems**.
+
+Do not establish write access to PLCs, DCS, SCADA, safety instrumented systems, or other process-control equipment.
+
+Do not use AI as a real-time process controller.
+
+Any future industrial integration must undergo a separate engineering, cybersecurity, functional-safety, and operational risk review. It must not be enabled merely because an API or network connection is available.
+
+---
+
+# PART XXV. SECURITY, AUDITABILITY AND DATA GOVERNANCE
+
+## 27. Build enterprise-grade security
+
+Implement:
+
+- Secure authentication.
+- Multifactor authentication where supported.
+- Role-based access control.
+- Optional fine-grained permissions.
+- Least-privilege defaults.
+- Server-side authorization.
+- Secure session management.
+- Encryption in transit.
+- Appropriate encryption at rest.
+- Secret management.
+- Rate limiting.
+- Input validation.
+- Protection against common web vulnerabilities.
+- Secure file uploads.
+- Backup and restoration procedures.
+- Audit logs.
+- Configurable retention.
+- Incident response documentation.
+
+### Record integrity
+
+For material movements, quality results, financial records, approvals, and safety events, maintain the appropriate history of creation, changes, corrections, and approvals.
+
+Use append-only audit records for critical business events where appropriate.
+
+Do not allow ordinary users to erase the history of a transaction merely because a correction is required.
+
+### Recovery and continuity
+
+Provide a documented plan for:
+
+- Database backups.
+- Recovery testing.
+- Service outages.
+- Lost devices.
+- Revoked user access.
+- Corrupted imports.
+- Accidental record changes.
+- Offline synchronization conflicts.
+- Compromised credentials.
+
+### Privacy and legal obligations
+
+Collect only the personal information needed for legitimate business functions.
+
+Make retention periods, access policies, export capabilities, and deletion requirements configurable according to applicable law and business policy.
+
+Never claim that the application is legally compliant, certified, or secure without the appropriate testing and verification.
+
+---
+
+# PART XXVI. DATA ARCHITECTURE AND TECHNICAL IMPLEMENTATION
+
+## 28. Choose a maintainable architecture
+
+Inspect the existing project before choosing technology.
+
+If no project exists, prefer a maintainable architecture using established, supported components.
+
+A reasonable starting point for an empty project is:
+
+**Frontend**
+- TypeScript.
+- A current stable React-based framework.
+- Responsive component architecture.
+- Accessible design primitives.
+- An installable PWA where appropriate.
+
+**Backend**
+- A structured API layer.
+- Type-safe data models.
+- Server-side business rules.
+- Background jobs for approved tasks.
+- Integration adapters.
+
+**Database**
+- PostgreSQL or a similarly appropriate transactional relational database.
+- Well-designed foreign-key relationships.
+- Unique identifiers.
+- Transactional inventory movements.
+- Auditable approval records.
+- Database migrations.
+- Efficient indexing.
+
+**Files and documents**
+- Secure object storage.
+- Metadata database.
+- Document versioning.
+- Appropriate access controls.
+
+**AI layer**
+- A model-provider abstraction.
+- Document retrieval.
+- Permission-aware data access.
+- Source attribution.
+- Usage controls.
+- Model-independent business logic.
+
+**Testing**
+- Unit tests.
+- Integration tests.
+- End-to-end workflow tests.
+- Authorization tests.
+- Data integrity tests.
+- Calculation verification tests.
+
+These are preferred defaults, not rigid requirements. Use technologies already established in the repository when they are fit for purpose.
+
+### Database design
+
+Create normalized entities for at least the applicable parts of this model:
+
+- Organizations.
+- Sites.
+- Users.
+- Roles.
+- Permissions.
+- Departments.
+- Suppliers.
+- Customers.
+- Products.
+- Product specifications.
+- Materials.
+- Material lots.
+- Storage locations.
+- Tanks and equipment.
+- Work orders.
+- Production batches.
+- Material movements.
+- Samples.
+- Test methods.
+- Laboratory results.
+- Quality dispositions.
+- Maintenance work orders.
+- Inspections.
+- Incidents.
+- Permits.
+- Compliance obligations.
+- Documents.
+- Document versions.
+- Approvals.
+- Purchase orders.
+- Sales orders.
+- Invoices and payment references.
+- Costs.
+- Energy readings.
+- Audit events.
+- AI interactions where retention is appropriate.
+
+Do not build every possible table without a working use case. Implement a cohesive foundation, then expand the schema as modules become functional.
+
+### Technical quality
+
+- No hardcoded business secrets.
+- No fake production data in actual operating views.
+- No duplicated business rules across unrelated screens.
+- No unhandled database errors.
+- No silent transaction failures.
+- No insecure client-only permission checks.
+- No exposed internal debug information in production.
+- No unversioned changes to important data structures.
+
+Document setup, configuration, deployment, migrations, and recovery.
+
+---
+
+# PART XXVII. REQUIRED USER ROLES
+
+## 29. Implement meaningful permissions
+
+Create configurable roles that can include:
+
+**Owner / Super Administrator:** Organization configuration, authorized executive reporting, user management, and access governance.
+
+**Factory Manager:** Production, stock, workforce coordination, maintenance, quality, and relevant operating reports.
+
+**Chemical Engineer:** Authorized process documentation, technical calculations, equipment records, production analysis, and engineering review.
+
+**Quality Manager:** Laboratory operations, specifications, nonconformances, quality release, and certificates.
+
+**Safety Manager:** Safety records, inspections, corrective actions, permits, and applicable compliance documentation.
+
+**Maintenance Manager:** Equipment registry, work orders, inspection history, spare parts, and maintenance costs.
+
+**Storekeeper:** Receipts, movements, inventory, stocktaking, and authorized dispatch records.
+
+**Procurement Manager:** Supplier qualification, quotations, purchase orders, and receipts.
+
+**Sales Manager:** Customers, quotations, orders, pricing permissions, and sales analytics.
+
+**Finance Manager:** Financial records, costing, reconciliation, receivables, and payables.
+
+**Production Operator:** Only the production records, instructions, and actions authorized for that individual.
+
+**Laboratory Analyst:** Sample processing and authorized laboratory records.
+
+**Auditor:** Read-only access to explicitly authorized records and audit histories.
+
+**External Professional:** Time-limited access to selected records for a specified professional purpose.
+
+The roles are templates. Permission assignment must be configurable, least-privilege by default, and enforced on the server.
+
+High-impact actions must use approval workflows according to the business's authorized governance.
+
+---
+
+# PART XXVIII. IMPLEMENTATION ROADMAP
+
+## 30. Build in sensible phases without losing the larger vision
+
+Do not attempt to build every industrial feature at once.
+
+Deliver working increments that can be tested, reviewed, and expanded.
+
+### Phase 0: Discovery and technical assessment
+
+- Inspect existing source code.
+- Identify available tools and runtime constraints.
+- Create the business discovery workflow.
+- Identify the actual business configuration.
+- Define known requirements and unresolved questions.
+- Create the initial domain model.
+- Identify safety and compliance boundaries.
+- Select an implementation architecture.
+- Produce a concise technical plan.
+- Begin implementing the foundational product immediately after planning.
+
+### Phase 1: Minimum viable operating system
+
+Build and test:
+
+- Authentication.
+- User and role management.
+- Business profile.
+- Site and department configuration.
+- Product and material master.
+- Supplier and customer register.
+- Document repository.
+- Inventory transactions.
+- Owner dashboard.
+- Search.
+- Audit history.
+- Responsive mobile interface.
+
+Use clearly labeled sample data only in demonstration environments.
+
+### Phase 2: Real industrial workflows
+
+Implement the relevant modules for:
+
+- Production work orders.
+- Batch genealogy.
+- Laboratory and quality.
+- Maintenance.
+- Safety records.
+- Permit administration.
+- Equipment registry.
+- Procurement.
+- Sales and dispatch.
+- Industrial costing.
+
+Enable only those process modules that match the verified business profile.
+
+### Phase 3: Advanced engineering and analytics
+
+Add:
+
+- Engineering calculation tools.
+- Chemical engineering knowledge center.
+- Source-grounded AI assistant.
+- Management reports.
+- Resource and energy analysis.
+- Cost and margin intelligence.
+- Mobile offline support.
+- Regulatory research register.
+- Document search and extraction.
+
+### Phase 4: Integration and optimization
+
+Add applicable integrations, predictive analytics, approved equipment-data monitoring, and advanced reporting.
+
+Do not promise features that depend on unavailable equipment, undocumented processes, missing historical data, third-party permissions, or infrastructure that has not been configured.
+
+### Phase 5: Multi-site and expansion capability
+
+Prepare the product for additional facilities, product categories, warehouses, legal entities, currencies, and international markets.
+
+Keep business rules configurable, but do not activate new jurisdiction-specific workflows without validation.
+
+---
+
+# PART XXIX. TESTING AND ACCEPTANCE CRITERIA
+
+## 31. Prove that the application works
+
+A beautiful screen is not evidence of a working industrial application.
+
+Create automated tests and demonstrate end-to-end workflows.
+
+### Required acceptance tests
+
+**Business discovery**
+- A new business can be configured without inventing missing process details.
+- Unknown information is explicitly represented.
+- Verified facts retain their sources.
+
+**Inventory**
+- A receipt changes inventory correctly.
+- Material issues update stock through a traceable transaction.
+- Concurrent movements cannot silently create invalid balances.
+- Corrections retain an appropriate history.
+
+**Production**
+- A work order can be created and progressed through its authorized workflow.
+- Material consumption and output are linked to appropriate lots.
+- Reconciliation discrepancies remain visible.
+
+**Quality**
+- Samples can be registered and tested.
+- Results retain units and source information.
+- Release decisions use the correct specification version.
+- Unauthorized personnel cannot approve restricted quality dispositions.
+
+**Maintenance**
+- Equipment history can be accessed.
+- Work orders can be created, assigned, and closed according to permissions.
+- Required inspection and return-to-service approvals are enforced where configured.
+
+**Safety**
+- Restricted actions require appropriate permissions and approvals.
+- Critical issues cannot be silently dismissed.
+- Approved emergency information remains available through its configured offline mechanism.
+- AI cannot override safety controls.
+
+**Finance**
+- Cost calculations can be reproduced from source records.
+- Financial summaries reconcile to their defined underlying transactions.
+- Missing data does not appear as zero without an explicit explanation.
+
+**Security**
+- Unauthorized users cannot access restricted records.
+- Access restrictions are enforced through the API and backend.
+- File access is permission-aware.
+- Audit records are retained according to policy.
+
+**Mobile**
+- Core workflows work on supported mobile screen sizes.
+- Forms handle invalid input correctly.
+- Offline changes are clearly distinguished from synchronized records.
+- Synchronization conflicts do not silently overwrite important data.
+
+**AI**
+- Technical answers cite available source documents.
+- Unsupported claims are identified as uncertain.
+- A missing document is not fabricated.
+- Uploaded files cannot override system security instructions.
+- Restricted records are not disclosed to unauthorized users.
+
+### Release gate
+
+Before calling any release production-ready:
+
+- Run tests.
+- Fix significant failures.
+- Validate calculations.
+- Review authorization rules.
+- Check for leaked secrets.
+- Verify database migrations.
+- Test backup and recovery procedures.
+- Check mobile usability.
+- Review unresolved safety and compliance limitations.
+- Publish a clear list of remaining blockers.
+
+Do not describe unimplemented modules as complete.
+
+---
+
+# PART XXX. REQUIRED DELIVERABLES
+
+## 32. What you must produce
+
+At the end of the implementation, provide:
+
+1. A working application.
+2. A clear repository structure.
+3. A business discovery workflow.
+4. A documented software architecture.
+5. A database schema and migration history.
+6. A practical setup guide.
+7. A configuration reference.
+8. A sample environment configuration without real secrets.
+9. A user and permissions guide.
+10. A module-by-module feature inventory.
+11. A test report.
+12. A data import and export guide.
+13. Backup and recovery instructions.
+14. An AI source and document-management guide.
+15. A safety and industrial-control boundary statement.
+16. A regulatory research and verification register.
+17. A list of verified features, incomplete features, and known limitations.
+18. A phased development backlog.
+19. A deployment guide appropriate to the available infrastructure.
+20. A short demonstration scenario showing the complete flow from material receipt to production record, quality review, inventory reconciliation, and dispatch, only where those processes are verified as applicable.
+
+If a deployment tool is available, validate the build and deploy only after the required checks have passed and the target environment is authorized.
+
+Never claim a deployment succeeded without confirmation.
+
+---
+
+# PART XXXI. THE INDUSTRIAL INTELLIGENCE VISION
+
+## 33. Build an application that becomes more valuable as the business grows
+
+The long-term ambition is to make AURELION an intelligent operating platform that combines:
+
+**Business memory:** The history, records, relationships, and lessons of the family business.
+
+**Technical memory:** Verified engineering references, equipment records, approved procedures, product specifications, and laboratory knowledge.
+
+**Operational intelligence:** What is happening across production, inventory, quality, equipment, purchasing, and dispatch.
+
+**Financial intelligence:** Where the business generates value, where losses occur, and how its working capital is used.
+
+**Risk intelligence:** Outstanding safety, maintenance, quality, environmental, and compliance concerns.
+
+**Decision intelligence:** Evidence-based options for reducing cost, improving reliability, strengthening margins, and expanding the business.
+
+**Learning intelligence:** A structured way for the next generation to understand the technical and commercial foundations of the industry.
+
+**Expansion intelligence:** A repeatable model for evaluating new products, customers, sites, and markets without assuming every opportunity is attractive.
+
+The system must distinguish a real opportunity from an attractive but unverified hypothesis.
+
+Every meaningful recommendation should identify the evidence, assumptions, uncertainty, expected benefit, possible risks, and required approval.
+
+---
+
+# PART XXXII. FINAL EXECUTION INSTRUCTIONS
+
+You are now authorized to begin implementing the project.
+
+Proceed in this order:
+
+1. Inspect the existing project and available development environment.
+2. Establish the business discovery workflow and identify unknowns.
+3. Define the minimal coherent data model.
+4. Build the shared design system and navigation.
+5. Implement the first end-to-end business workflow.
+6. Create and test the database operations and authorization controls.
+7. Add the remaining core modules in prioritized increments.
+8. Validate the application using real workflow tests and clearly labeled sample data.
+9. Document the unfinished work and practical deployment steps.
+10. Present the owner with a usable, honest, and maintainable application.
+
+Make reasonable software implementation decisions without asking the user to specify every technical detail.
+
+However, never invent the family's operating processes, equipment capabilities, product specifications, licenses, business figures, or safety procedures. Obtain and verify those details through the discovery workflow.
+
+Do not confuse a large feature list with an excellent product. Every implemented module must work, and every proposed module must have a clear path to implementation.
+
+Do not compromise data integrity, cybersecurity, industrial safety, or professional engineering review to make the application appear more autonomous.
+
+Do not attempt to directly operate the factory through an AI model.
+
+Build the management, engineering knowledge, analysis, documentation, and decision-support layers first.
+
+## THE FINAL STANDARD
+
+Build something the founder would recognize as an intelligent continuation of the business, the father could use to organize years of industrial experience, and the next generation could use to understand the company, manage it responsibly, and expand it with discipline.
+
+Not merely a website.
+
+Not merely an inventory application.
+
+Not merely a chatbot.
+
+**A unified industrial intelligence platform for the past, present, and future of the family oil business.**
+
+Start by inspecting the existing project, then turn this vision into a real, tested, modular application.
